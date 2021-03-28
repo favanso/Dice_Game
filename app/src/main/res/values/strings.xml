@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Two_Dice_Pig</string>
+    <string name="player_1_total">Player 1 Total:</string>
+    <string name="player_2_total">Player 2 total:</string>
+    <string name="current_player">Current Player</string>
+    <string name="Init_value">0</string>
+    <string name="init_player">P1</string>
+    <string name="hold">Hold</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="dice_1">Dice 1</string>
+    <string name="dice_2">Dice 2</string>
+    <string name="turn_total">Turn Total</string>
+    <string name="reset">Reset</string>
+</resources>
